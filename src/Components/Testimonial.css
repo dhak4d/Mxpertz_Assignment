@@ -1,0 +1,38 @@
+
+.test{
+    text-align: center;
+   
+}
+.test h2{
+  margin: 10px 0 10px 0;
+  text-decoration: 3px underline orange;
+}
+ .test p{
+    margin: 10px 0 10px 0;
+    font-size: 40px;
+ }
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    /* flex-direction: column; */
+   margin-top: 50px;
+}
+
+.inside-flex{
+    width: 200px;
+}
+
+.in-para{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.inside-flex p{
+    line-height: 1.5;
+}
+
+.xyz{
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px;
+}

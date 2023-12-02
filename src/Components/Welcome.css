@@ -1,0 +1,33 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    margin-top: 100px;
+    /* margin-bottom: 50px; */
+}
+
+.wel-para{
+    width: 500px;
+}
+
+.heading1{
+ font-size: 15px;
+ margin: 30px 0 10px 0;
+ text-decoration: 3px underline orange;
+}
+
+.heading2{
+    font-size: 25px; 
+    margin: 20px 0 20px 0;
+}
+.heading3{
+   color: grey; 
+   line-height: 1.9;
+}
+.wel-img{
+    width: 400px;
+    height: 500px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+
