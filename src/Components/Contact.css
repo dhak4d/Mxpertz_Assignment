@@ -1,7 +1,7 @@
-.contact::before {
+.contact {
     width: 100%;
     background: url('D:/Mango Workspace/mxpertz/frontend/src/Images/background.jpeg');
-
+    padding: 50px;
 
 }
 
@@ -13,10 +13,10 @@
 }
 
 .info {
-    width: 500px;
+    width: 400px;
     height: 500px;
     color: white;
-    background-color: rgb(38, 44, 50);
+    background-color: rgb(57, 32, 17);
     text-decoration: none;
     border-radius: 5px;
     text-align: center;
@@ -27,10 +27,10 @@
 }
 
 .page {
-    width: 500px;
+    width: 400px;
     height: 500px;
     color: white;
-    background-color: rgb(38, 44, 50);
+    background-color: rgb(57, 32, 17);
     text-decoration: none;
     border-radius: 5px;
     text-align: center;
@@ -43,7 +43,7 @@
 
 .hr {
     width: 300px;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-top: 5px;
 
 }
@@ -72,9 +72,9 @@
 }
 
 .form input {
-    width: 400px;
+    width: 300px;
     height: 40px;
-    margin: 10px 0 10px 0;
+    margin: 10px 0px 10px 0px;
     padding: 10px;
     background-color: black;
     color: white;
@@ -84,10 +84,11 @@
 }
 
 .contact-btn {
-    width: 400px;
+    width: 300px;
     height: 40px;
     background-color: orange;
     margin: 10px 0 10px 0;
     border-style: none;
     font-size: 16px;
+    border-radius: 5px;
 }

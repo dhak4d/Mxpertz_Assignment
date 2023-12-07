@@ -5,19 +5,16 @@
     background: url('D:/Mango Workspace/mxpertz/frontend/src/Images/background.jpeg');
     background-repeat: no-repeat;
     background-position: cover;
-    
+    color: rgb(244, 237, 237);
+    text-align: center;    
 }
 
-.home-page {
-    color: rgb(244, 237, 237);
-    text-align: center;    
-    /* margin-top: 100px; */
-}
 .bz{
     width: 600px;
+    padding-top: 160px;
     color: rgb(244, 237, 237);
     text-align: center;    
-    margin-left: 300px;
+    margin-left: 310px;
 }
 .heading {
     margin-top: 30px;
